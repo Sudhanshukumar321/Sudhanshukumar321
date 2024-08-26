@@ -1,3 +1,4 @@
+<img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/ad96c6b69afbe85497fe377f9ea6720e/4c28be7d45a207c3-a4/s540x810/e0514f1e3af1f8d6db63d0a513ce20af7971fb8f.gifv"> 
 <h1 align="center">Hi 👋, I'm Sudhanshu Kumar</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="coding" width="400"       src="https://camo.githubusercontent.com/3d7ec2e7cebb9cc7bc4db7ef28ddc88e815f138b5a936dbfb2890871985ee157/68747470733a2f2f6d656469612e74656e6f722e636f6d2f5743386f6338614733786741414141692f776f726b2d6f66666963652e6769663f6662636c69643d4977415232734d584c4b7565767873494d494d5331674e466a5a4135467055327a47796e64474b4c4647677043574a486d6e697a703864505270686f30"
